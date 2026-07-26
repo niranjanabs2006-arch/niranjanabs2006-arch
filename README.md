@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I'm Niranjana
 
-<!--
-**niranjanabs2006-arch/niranjanabs2006-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓  B.Sc. Physics student 
 
-Here are some ideas to get you started:
+🔬 Interested in
+- Scientific Computing
+- Computational Physics
+- AI for Science
+- Numerical Methods
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 Currently learning
+- Python
+- NumPy & Matplotlib
+- Git & GitHub
+- Scientific Programming
+
+🚀 Currently working on
+- VigyanShaala Tropical Passive Cooling Project
+- Physics simulations
+
+🛠️ Tools
+Python • Jupyter Notebook • Git • GitHub • VS Code • Google Colab
+
+📫 Reach me
+- Email: niranjanabs2006@gmail.com
+- LinkedIn: linkedin.com/in/niranjana-b-s-60b5b2323
 -->
