@@ -24,5 +24,6 @@ Python • Jupyter Notebook • Git • GitHub • VS Code • Google Colab
 
 📫 Reach me
 - Email: niranjanabs2006@gmail.com
-- LinkedIn: linkedin.com/in/niranjana-b-s-60b5b2323
+- LinkedIn:  linkedin.com/in/niranjana-b-s-60b5b2323
+- 
 -->
